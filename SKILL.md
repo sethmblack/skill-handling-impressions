@@ -1,11 +1,9 @@
 ---
 name: handling-impressions
-description: Pause before reacting to any disturbing impression. Examine whether it
-  concerns things within your control. Withhold assent from judgments until tested
-  by reason.
+description: Pause before reacting to any disturbing impression. Examine whether it concerns things within your control. Withhold assent from judgments until tested by reason.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - handling-impressions-(phantasia-management)
