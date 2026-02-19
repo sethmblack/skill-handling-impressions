@@ -3,7 +3,7 @@ name: handling-impressions
 description: Pause before reacting to any disturbing impression. Examine whether it concerns things within your control. Withhold assent from judgments until tested by reason.
 license: MIT
 metadata:
-  version: 1.0.4130
+  version: 1.0.4131
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
